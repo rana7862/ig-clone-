@@ -1,0 +1,187 @@
+*{
+    text-decoration: none;
+    padding: 0;
+    margin-left: 0px;
+}
+
+form a{
+    font-weight: bold;
+    font-size: small;
+     
+    font-family: Arial, Helvetica, sans-serif;
+}
+.top{
+    box-sizing: border-box;
+    display: inline-flex;
+    
+}
+
+
+
+
+.b{
+   
+    padding-left: 2px;
+    border: 0.5px solid lightgray;
+    width: 350px;
+    height: 400px;
+    text-align:center;
+}
+h1{
+    
+    font-family:cursive,sans-serif;
+}
+.u {
+    border-color: lightgray;
+   width: 300px;
+   height: 40px;
+    
+    border-radius:5px;
+    
+
+
+}
+ .t{
+    position: fixed;
+    top: 0;
+    left: 0;
+    font-family: "Calibri Light";
+    font-size: small;
+} 
+#w{
+    margin-top: 10px;
+    margin-bottom: 5px;
+   
+
+}
+#r{
+    margin-bottom: 10px;
+}
+    
+    
+
+.group{
+    
+   
+    font-size: 18px;
+    padding-top: 16px;
+    border: 0.5px solid lightgray;
+    height: 40px;
+    width: 354px;
+    margin-left: 540px;
+    margin-top: -26px;
+text-align:center ; 
+   
+
+}
+.group a{
+    font-family: "Arial Rounded Bold", Arial, sans-serif;
+    color: rgb(9, 177, 243);
+}
+.q{
+    color: white;
+background-color:#1877F2;
+font-family: Arial, Helvetica, sans-serif;
+padding-top: 10px;
+
+border-radius: 10px;
+width: 300px;
+height: 20px;
+display: inline-block;
+
+ 
+
+
+}
+
+.ph:where(img){
+
+    width: 440px;
+    margin-left: 100px;
+}
+
+
+
+
+.h{
+    font-size: 20px;
+    text-align:center;
+}
+.i{
+    color: #1877F2;
+    font-size: 17px;
+    font-family: "Arial Rounded Bold", Arial, sans-serif;
+   
+}
+.c{
+    
+    
+    margin-left: 580.9px;
+   
+    box-sizing: border-box;
+    display: inline-flex;
+    
+  
+}
+.a img{
+   padding-bottom: 50px;
+    width: 150px;
+    
+    
+}
+
+.z img{
+    width: 140px;
+    margin-left: 10px;
+   padding-top:49px;
+
+}
+.o{
+    margin-left: 680px;
+}
+samp{
+    margin-top: 0px;
+    font-size: large;
+}
+.f{
+    margin-left: 200px;
+}
+.f a{
+    font-family: "Arial Rounded Bold", Arial, sans-serif;
+    color: gray;
+    margin-left: 8px;
+    font-size: smaller;
+    
+}
+.fi:hover{
+   text-decoration: underline;
+}
+.th{
+    display: inline-flex;
+    font-family: "Arial Rounded Bold", Arial, sans-serif;
+color: gray;
+    border-color:white;
+    margin-left: 480.5px;
+}
+.g{
+    color: #008CBA;
+    
+    font-family: "Calibri Light";
+} 
+.th:where(div){
+   margin-left:10px;
+    font-size:smaller;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
